@@ -1,0 +1,13 @@
+.link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1.5px;
+}
+
+#editor {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  width: 500px;
+  height: 500px;
+}
